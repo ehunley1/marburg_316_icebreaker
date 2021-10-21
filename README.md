@@ -1,2 +1,2 @@
-# marburg_321_icebreaker
-Initial group exercise for SER 321.
+# marburg_316_icebreaker
+Initial group exercise for SER 316.
